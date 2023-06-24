@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/083c74aa387b444e91784a21d1855f80/artifacts
+end_time: 1687608432717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 083c74aa387b444e91784a21d1855f80
+run_name: bold-cod-933
+run_uuid: 083c74aa387b444e91784a21d1855f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608426009
+status: 3
+tags: []
+user_id: sunny

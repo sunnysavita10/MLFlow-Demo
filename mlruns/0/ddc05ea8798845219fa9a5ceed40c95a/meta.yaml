@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/ddc05ea8798845219fa9a5ceed40c95a/artifacts
+end_time: 1687608384138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddc05ea8798845219fa9a5ceed40c95a
+run_name: righteous-shark-678
+run_uuid: ddc05ea8798845219fa9a5ceed40c95a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608378542
+status: 3
+tags: []
+user_id: sunny

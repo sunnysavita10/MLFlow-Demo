@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/682868e4d9a940c89284eb7ece73345c/artifacts
+end_time: 1687608521711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 682868e4d9a940c89284eb7ece73345c
+run_name: worried-ray-198
+run_uuid: 682868e4d9a940c89284eb7ece73345c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608520628
+status: 4
+tags: []
+user_id: sunny

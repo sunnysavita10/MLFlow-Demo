@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/ff63361bd0ed420ab31c0ec54949b7aa/artifacts
+end_time: 1687608532289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff63361bd0ed420ab31c0ec54949b7aa
+run_name: likeable-ox-466
+run_uuid: ff63361bd0ed420ab31c0ec54949b7aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608527644
+status: 3
+tags: []
+user_id: sunny

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/ded3df35712946b0b7dbe06a2d608212/artifacts
+end_time: 1687608571792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ded3df35712946b0b7dbe06a2d608212
+run_name: efficient-shark-216
+run_uuid: ded3df35712946b0b7dbe06a2d608212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608565276
+status: 3
+tags: []
+user_id: sunny

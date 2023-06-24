@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/e4941779e4d447f4993b63ba38a56af7/artifacts
+end_time: 1687607286873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4941779e4d447f4993b63ba38a56af7
+run_name: placid-lynx-424
+run_uuid: e4941779e4d447f4993b63ba38a56af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687607285902
+status: 3
+tags: []
+user_id: sunny

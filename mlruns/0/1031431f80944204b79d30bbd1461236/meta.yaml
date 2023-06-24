@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/1031431f80944204b79d30bbd1461236/artifacts
+end_time: 1687608365790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1031431f80944204b79d30bbd1461236
+run_name: agreeable-moose-195
+run_uuid: 1031431f80944204b79d30bbd1461236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608359335
+status: 3
+tags: []
+user_id: sunny

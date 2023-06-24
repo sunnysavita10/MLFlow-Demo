@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/893b98c0bae44693ba1ee89835af22c3/artifacts
+end_time: 1687608515578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 893b98c0bae44693ba1ee89835af22c3
+run_name: luxuriant-toad-266
+run_uuid: 893b98c0bae44693ba1ee89835af22c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608509422
+status: 3
+tags: []
+user_id: sunny

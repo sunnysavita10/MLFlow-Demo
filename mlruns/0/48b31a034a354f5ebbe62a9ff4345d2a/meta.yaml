@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/48b31a034a354f5ebbe62a9ff4345d2a/artifacts
+end_time: 1687608460079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48b31a034a354f5ebbe62a9ff4345d2a
+run_name: mysterious-lynx-886
+run_uuid: 48b31a034a354f5ebbe62a9ff4345d2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608455085
+status: 3
+tags: []
+user_id: sunny

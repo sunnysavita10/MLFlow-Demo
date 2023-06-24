@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/b0c049c4f0a445eeb030d5a4cd242863/artifacts
+end_time: 1687608560346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0c049c4f0a445eeb030d5a4cd242863
+run_name: zealous-sheep-433
+run_uuid: b0c049c4f0a445eeb030d5a4cd242863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608556019
+status: 3
+tags: []
+user_id: sunny

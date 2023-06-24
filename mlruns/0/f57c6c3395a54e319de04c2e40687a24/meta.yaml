@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/f57c6c3395a54e319de04c2e40687a24/artifacts
+end_time: 1687608420636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f57c6c3395a54e319de04c2e40687a24
+run_name: bemused-foal-55
+run_uuid: f57c6c3395a54e319de04c2e40687a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608415661
+status: 3
+tags: []
+user_id: sunny

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/41a790d7b21a407e8cdad179a89fe732/artifacts
+end_time: 1687608582073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41a790d7b21a407e8cdad179a89fe732
+run_name: bemused-tern-389
+run_uuid: 41a790d7b21a407e8cdad179a89fe732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608577765
+status: 3
+tags: []
+user_id: sunny

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/d15934c053e740b18cac6343c57391da/artifacts
+end_time: 1687608449661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d15934c053e740b18cac6343c57391da
+run_name: grandiose-kit-46
+run_uuid: d15934c053e740b18cac6343c57391da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608444932
+status: 3
+tags: []
+user_id: sunny

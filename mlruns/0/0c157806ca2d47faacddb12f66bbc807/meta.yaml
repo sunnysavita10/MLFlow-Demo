@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/0c157806ca2d47faacddb12f66bbc807/artifacts
+end_time: 1687607409807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c157806ca2d47faacddb12f66bbc807
+run_name: caring-jay-800
+run_uuid: 0c157806ca2d47faacddb12f66bbc807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687607402373
+status: 3
+tags: []
+user_id: sunny

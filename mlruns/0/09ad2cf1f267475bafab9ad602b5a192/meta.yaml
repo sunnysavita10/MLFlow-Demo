@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/09ad2cf1f267475bafab9ad602b5a192/artifacts
+end_time: 1687607151454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09ad2cf1f267475bafab9ad602b5a192
+run_name: bouncy-steed-709
+run_uuid: 09ad2cf1f267475bafab9ad602b5a192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687607150331
+status: 3
+tags: []
+user_id: sunny

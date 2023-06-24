@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/c651327d11584656af4d5088c94f6dad/artifacts
+end_time: 1687608503023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c651327d11584656af4d5088c94f6dad
+run_name: learned-boar-270
+run_uuid: c651327d11584656af4d5088c94f6dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608497699
+status: 3
+tags: []
+user_id: sunny
